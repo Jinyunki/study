@@ -23,4 +23,6 @@ class MainActivity : AppCompatActivity() {
     fun sum(a: Int, b: Int){
         println("$a 와 $b 의 합은 ${a+b}")
     }
+
+    fun divider(a: Int, b: Int) = a / b
 }
