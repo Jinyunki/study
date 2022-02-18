@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
             println("str : $str")
         }
 
+        // Test
+
     }
 
 
